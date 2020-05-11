@@ -1,0 +1,36 @@
+body {
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto; /* centering */
+}
+h1 {
+  font-size: 3em;
+  font-family: "Helvetica", "Arial", "Sans-Serif";
+}
+div.left {
+  float: left;
+  width: 250px;
+  margin: 0;
+  padding-bottom: 2em;
+  padding-right: 1em;
+  overflow: auto;
+}
+div.tab {
+  justify-content: center;
+  text-align: center;
+  left: 150px;
+  right: 150px;
+}
+
+div.right {
+  margin-left: px;
+  padding-left: 1em;
+  padding-top: 1px;
+  padding-bottom: 2em;
+}
+
+p {
+  font-size: 1em;
+  padding-left: 300px;
+  padding-right: 300px;
+}
